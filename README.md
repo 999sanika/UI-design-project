@@ -1,2 +1,21 @@
 # UI-design-project
 UI design project created using figma
+# Project 1 – Landing Page Design
+
+## Created By:
+Sanika Mali
+
+## Tool Used:
+Figma
+
+## Description:
+This project is a clean and responsive landing page design created using Figma.
+The design includes:
+- Hero Section
+- Features Section
+- Call To Action (CTA)
+- Auto Layout
+- Reusable Components
+
+## Figma Design Link:
+PASTE_YOUR_FIGMA_LINK_HERE
